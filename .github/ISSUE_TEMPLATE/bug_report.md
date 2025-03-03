@@ -19,7 +19,6 @@ Steps to reproduce the behavior:
 **Screenshots**
 
 
-
 **Details**
 OS (Windows, Mac, etc.):
 
